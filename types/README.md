@@ -5,3 +5,7 @@ This is the TypeScript declaration of Vuex.
 ```sh
 $ tsc -p test/tsconfig.json
 ```
+
+```install
+$ yarn insall
+```
